@@ -25,14 +25,14 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Hariom Gupta",
-  title: "Web Designer & Content Creator",
+  title: "Web Developer",
   email: "guptahariom03082003@gmail.com",
   gitHub: "hari45678",
-  instagram: "",
+  instagram: "_hariom_gupta_03",
   linkedIn: "hariom-gupta-7974229",
   medium: "",
   twitter: "",
-  youTube: "",
+  youTube: "@hariomgupta7766",
 };
 
 const primaryColor = "#4E567E";

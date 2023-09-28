@@ -40,13 +40,13 @@ const projectList = [
     title: "Web Development for Beginners",
     description:
       "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    url: "https://youtu.be/6mbwJ2xhgzM?si=vCBfpnsj4SHsdE2N",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://drive.google.com/file/d/1VXF5eG_MtkKZXT6ba0opCAv150Jz80nI/view?usp=sharing",
   },
   {
     title: "GitHub Codespaces and github.dev",
